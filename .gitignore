@@ -1,0 +1,30 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Hide Folder /foldername
+# Hide All instances of a folder **/foldername
+# Hide File Type *.HTML
+
+# dependencies
+**/node_modules
+***/.pnp
+**.pnp.js
+
+# testing
+*/coverage
+
+# production
+*/build
+*/configs
+
+# Finished
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
