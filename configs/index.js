@@ -5,6 +5,7 @@ const DBConfigs = {
   database: "dr_catcomps",
 };
 
+
 // configs for connecting to redis
 const redisConfigs = {
   port: 6379,

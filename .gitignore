@@ -10,11 +10,11 @@
 **.pnp.js
 
 # testing
-*/coverage
+**/coverage
 
 # production
-*/build
-*/configs
+**/build
+**/configs
 
 # Finished
 
